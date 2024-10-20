@@ -1,0 +1,93 @@
+[
+    {
+        "age": 0,
+        "alive": true,
+        "event": "planted",
+        "height": 0,
+        "year": 2024
+    },
+    {
+        "age": 1,
+        "alive": true,
+        "event": "grow",
+        "height": 1,
+        "year": 2025
+    },
+    {
+        "age": 2,
+        "alive": true,
+        "event": "grow",
+        "height": 2,
+        "year": 2026
+    },
+    {
+        "age": 3,
+        "alive": true,
+        "event": "grow",
+        "height": 3,
+        "year": 2027
+    },
+    {
+        "age": 4,
+        "alive": true,
+        "event": "nuclear war",
+        "height": 4,
+        "year": 2028
+    },
+    {
+        "age": 5,
+        "alive": true,
+        "event": "grow",
+        "height": 5,
+        "year": 2029
+    },
+    {
+        "age": 6,
+        "alive": true,
+        "event": "grow",
+        "height": 6,
+        "year": 2030
+    },
+    {
+        "age": 7,
+        "alive": true,
+        "event": "grow",
+        "height": 7,
+        "year": 2031
+    },
+    {
+        "age": 8,
+        "alive": true,
+        "event": "grow",
+        "height": 8,
+        "year": 2032
+    },
+    {
+        "age": 9,
+        "alive": true,
+        "event": "grow",
+        "height": 9,
+        "year": 2033
+    },
+    {
+        "age": 10,
+        "alive": true,
+        "event": "grow",
+        "height": 10,
+        "year": 2034
+    },
+    {
+        "age": 11,
+        "alive": true,
+        "event": "grow",
+        "height": 11,
+        "year": 2035
+    },
+    {
+        "age": 12,
+        "alive": false,
+        "event": "cut down a tree",
+        "height": 12,
+        "year": 2036
+    }
+]
